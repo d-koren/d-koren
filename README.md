@@ -1,6 +1,5 @@
-- Currently a senior at UMass Amherst studying Computer Engineering
-- I’m interested primarily in backend web development, but I'm also starting to look into iOS development
-- I’m interning at Avanade working with the Microsoft tech stack while dabbling in Swift on my own time
+- Software Engineer @ Avanade
+- Currently specializing in technologies like .NET
 - Linkedin: https://www.linkedin.com/in/davidkorenblyum/
 - Website (WIP): https://www.davidkorenblyum.com
 

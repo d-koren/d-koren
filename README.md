@@ -1,6 +1,5 @@
-- Software Engineer @ Avanade
 - Currently specializing in technologies like .NET
-- Linkedin: https://www.linkedin.com/in/davidkorenblyum/
+- Also interested in web dev using Java and Python
 - Website (WIP): https://www.davidkorenblyum.com
 
 <!---

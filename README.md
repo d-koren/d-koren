@@ -1,6 +1,6 @@
-- Currently specializing in technologies like .NET
-- Also interested in web dev using Java, Python, and JavaScript
-- Website (WIP): https://www.davidkorenblyum.com
+- Back-end developer currently specializing in technologies like .NET
+- Also interested in Java, Python, SQL, and JavaScript
+- Website (WIP): https://www.korenblyum.com
 
 <!---
 davidkorenblyum/davidkorenblyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - Currently specializing in technologies like .NET
-- Also interested in web dev using Java and Python
+- Also interested in web dev using Java, Python, and JavaScript
 - Website (WIP): https://www.davidkorenblyum.com
 
 <!---

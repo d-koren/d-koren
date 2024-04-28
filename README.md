@@ -1,6 +1,6 @@
 - SWE at Avanade currently working with technologies like Python, AWS, and Databricks.
-- In my spare time, I like to learn other technologies, like React and Node.js.
 - Focused on low-level programming in college, dealing with embedded systems and the like. 
+- In my spare time, I like to learn about other topics, like JS frameworks or system design concepts.
 - Check out my [Website](https://davidkorenblyum.github.io/Portfolio/).
 
 <!---
